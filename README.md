@@ -8,7 +8,7 @@ The **ESP32-S3 AI Camera** is a cutting-edge intelligent camera module built aro
   
 ## Documentation
 
-Refer the [Project Blog on Hackster](https://www.hackster.io/maheshyadav216/ai-powered-anpr-using-dfrobot-s-esp32-s3-ai-cam-gemini-api-74d458) for more information.  
+Refer the [Blog on Hackster](https://www.hackster.io/maheshyadav216/ai-powered-anpr-using-dfrobot-s-esp32-s3-ai-cam-gemini-api-74d458) for more information.  
 
 **Hardware**
 - [ESP32-S3 AI Camera Module](https://www.dfrobot.com/product-2899.html)  
