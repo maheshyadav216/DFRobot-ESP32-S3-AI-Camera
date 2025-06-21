@@ -8,7 +8,7 @@ The **DFRobot ESP32-S3-AI-Camera** is a highly capable intelligent camera module
   
 ## Documentation
 
-Refer the [Blog on Hackster](https://www.hackster.io/maheshyadav216/ai-powered-anpr-using-dfrobot-s-esp32-s3-ai-cam-gemini-api-74d458) for more information.  
+Refer the [Blog on Hackster](https://www.hackster.io/maheshyadav216/getting-started-with-dfrobot-esp32-s3-ai-camera-bba765) for more information.  
 
 **Hardware**
 - [ESP32-S3 AI Camera Module](https://www.dfrobot.com/product-2899.html)  
@@ -22,7 +22,9 @@ Refer the [Blog on Hackster](https://www.hackster.io/maheshyadav216/ai-powered-a
 
 📕 **YouTube Video Links**  
 
-▶️  [DIY Project] AI Powered ANPR System 🔗  https://youtu.be/jt6_WuvNuSQ   
+▶️  Getting Started with DFRobot ESP32-S3 AI Camera  🔗  https://youtu.be/jt6_WuvNuSQ   
+  
+▶️  Project : AI Powered ANPR System using DFRobot ESP32-S3 AI Camera🔗  https://youtu.be/jt6_WuvNuSQ   
   
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
@@ -41,7 +43,7 @@ Refer the [Blog on Hackster](https://www.hackster.io/maheshyadav216/ai-powered-a
 
 🌐 GitHub Repository - 🔗 https://github.com/maheshyadav216/DFRobot-ESP32-S3-AI-Camera   
   
-🌐 Hackster Blog - 🔗 https://www.hackster.io/maheshyadav216/ai-powered-anpr-using-dfrobot-s-esp32-s3-ai-cam-gemini-api-74d458  
+🌐 Hackster Blog - 🔗 https://www.hackster.io/maheshyadav216/getting-started-with-dfrobot-esp32-s3-ai-camera-bba765  
   
 ------------------------------------------------------------------------------------------  
 
