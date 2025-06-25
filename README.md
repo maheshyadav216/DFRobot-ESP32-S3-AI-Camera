@@ -3,7 +3,7 @@ Getting Started with DFRobot ESP32-S3 AI Camera
   
 <img src="/Images/DF-Esp32S3.jpg" height="200">
   
-The **DFRobot ESP32-S3-AI-Camera** is a highly capable intelligent camera module built around the powerful ESP32-S3 chip, designed for advanced AI, video processing, and voice interaction applications. It features an OV3660 2MP wide-angle infrared camera for night vision, an onboard microphone and speaker for voice commands and audio output, 8MB of PSRAM for demanding AI models and image buffering, and supports Wi-Fi and Bluetooth 5.0 (BLE) connectivity. This module is ideal for edge AI applications like image recognition (YOLO, Edge Impulse, OpenCV), voice assistants (even integrating with ChatGPT), smart home devices, and advanced surveillance systems, offering a rich set of features in a compact form factor.
+The **DFRobot ESP32-S3-AI-Camera** is a highly capable intelligent camera module built around the powerful ESP32-S3 chip, designed for advanced AI, video processing, and voice interaction applications. It features an OV3660 3MP wide-angle infrared camera for night vision, an onboard microphone and speaker for voice commands and audio output, 8MB of PSRAM for demanding AI models and image buffering, and supports Wi-Fi and Bluetooth 5.0 (BLE) connectivity. This module is ideal for edge AI applications like image recognition (YOLO, Edge Impulse, OpenCV), voice assistants (even integrating with ChatGPT), smart home devices, and advanced surveillance systems, offering a rich set of features in a compact form factor.
   
   
 ## Documentation
