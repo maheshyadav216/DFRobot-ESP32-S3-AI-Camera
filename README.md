@@ -22,9 +22,9 @@ Refer the [Blog on Hackster](https://www.hackster.io/maheshyadav216/getting-star
 
 📕 **YouTube Video Links**  
 
-▶️  Getting Started with DFRobot ESP32-S3 AI Camera  🔗  https://youtu.be/jt6_WuvNuSQ   
+▶️  Getting Started with DFRobot ESP32-S3 AI Camera  🔗  https://youtu.be/_Igt3vSxp8s     
   
-▶️  Project : AI Powered ANPR System using DFRobot ESP32-S3 AI Camera🔗  https://youtu.be/jt6_WuvNuSQ   
+▶️  Project : AI Powered ANPR System using DFRobot ESP32-S3 AI Camera🔗  https://youtu.be/Wf6Rw2O5oBU     
   
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
